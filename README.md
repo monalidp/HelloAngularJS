@@ -1,2 +1,3 @@
 # HelloAngularJS
-Try and test Angular JS 
+Trying and testing Angular JS 
+
